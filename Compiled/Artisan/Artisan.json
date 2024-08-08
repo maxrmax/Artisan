@@ -1,0 +1,21 @@
+{
+  "Author": "Taurenkey (Puni.sh)",
+  "Name": "ArtisanStaged",
+  "InternalName": "Artisan",
+  "AssemblyVersion": "4.0.1.1",
+  "Description": "The all-in-one crafting plugin.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/maxrmax/Artisan",
+  "Tags": [
+    "crafting"
+  ],
+  "DalamudApiLevel": 10,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://love.puni.sh/resources/artisan.png",
+  "Punchline": "A 'simple' crafting plugin.",
+  "Changelog": "",
+  "AcceptsFeedback": true
+}
