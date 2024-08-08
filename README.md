@@ -13,5 +13,9 @@ Repo Url:
 `https://love.puni.sh/ment.json`
 
 This is a copied repo for using Artison on STAGED Dalamud.
+Compiled and ready to use inside Compiled/Artisan folder.
+Just replace the files inside installedPlugins/Artisan/version/
+
+May be a few versions behind at certain times!
 Use at your own risk.
 </div>
