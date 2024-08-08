@@ -11,4 +11,7 @@ Crafting Automation Plugin/Helper for FFXIV
 Repo Url: 
 
 `https://love.puni.sh/ment.json`
+
+This is a copied repo for using Artison on STAGED Dalamud.
+Use at your own risk.
 </div>
