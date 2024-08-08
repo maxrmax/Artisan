@@ -2,10 +2,10 @@
   "Author": "Taurenkey (Puni.sh)",
   "Name": "ArtisanStaged",
   "InternalName": "Artisan",
-  "AssemblyVersion": "4.0.1.1",
+  "AssemblyVersion": "4.0.1.5",
   "Description": "The all-in-one crafting plugin.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/maxrmax/Artisan",
+  "RepoUrl": "https://github.com/PunishXIV/Artisan",
   "Tags": [
     "crafting"
   ],
@@ -16,6 +16,6 @@
   "LoadPriority": 0,
   "IconUrl": "https://love.puni.sh/resources/artisan.png",
   "Punchline": "A 'simple' crafting plugin.",
-  "Changelog": "",
+  "Changelog": "- Fix consumable usage in situations where some consumables were missing preventing using consumables that aren't missing.",
   "AcceptsFeedback": true
 }
