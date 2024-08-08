@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "Artisan/4.0.1.1": {
+      "Artisan/4.0.1.5": {
         "dependencies": {
           "DalamudPackager": "2.1.12",
           "ECommons": "2.2.0.2",
@@ -922,7 +922,7 @@
     }
   },
   "libraries": {
-    "Artisan/4.0.1.1": {
+    "Artisan/4.0.1.5": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
