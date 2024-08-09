@@ -3,19 +3,19 @@
   <PropertyGroup>
     <Authors></Authors>
     <Company></Company>
-    <Version>4.0.1.5</Version>
+    <Version>4.0.1.5.69</Version>
     <Description>A 'simple' crafting plugin.</Description>
     <Copyright>Taurenkey</Copyright>
   </PropertyGroup>
 
 	<PropertyGroup>
 		<DalamudLibPath>$(appdata)\XIVLauncher\addon\Hooks\dev\</DalamudLibPath>
-		<DalamudPluginPath>$(appdata)\XIVLauncher\installedPlugins\Artisan\$(version)</DalamudPluginPath>
-		<DalamudDevPlugins>$(appdata)\XIVLauncher\devPlugins\Artisan\</DalamudDevPlugins>
-		<AssemblyName>Artisan</AssemblyName>
-		<RootNamespace>Artisan</RootNamespace>
-		<PackageId>Artisan</PackageId>
-		<Product>Artisan</Product>
+		<DalamudPluginPath>$(appdata)\XIVLauncher\installedPlugins\ArtisanStaged\$(version)</DalamudPluginPath>
+		<DalamudDevPlugins>$(appdata)\XIVLauncher\devPlugins\ArtisanStaged\</DalamudDevPlugins>
+		<AssemblyName>ArtisanStaged</AssemblyName>
+		<RootNamespace>ArtisanStaged</RootNamespace>
+		<PackageId>ArtisanStaged</PackageId>
+		<Product>ArtisanStaged</Product>
 		<SatelliteResourceLanguages>en</SatelliteResourceLanguages>
 	</PropertyGroup>
 
