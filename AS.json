@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Taurenkey, kawaii",
+    "Name": "ArtisanStaged",
+    "Punchline": "A 'simple' crafting plugin.",
+    "Description": "Staged",
+    "Tags": [
+      "crafting"
+    ],
+    "InternalName": "ArtisanStaged",
+    "RepoUrl": "https://github.com/maxrmax/ArtisanStaged",
+    "DownloadCount": 0,
+    "LastUpdate": 1722963732787,
+    "DownloadLinkInstall": "https://github.com/maxrmax/ArtisanStaged/raw/main/Compiled/Artisan.zip",
+    "DownloadLinkUpdate": "https://github.com/maxrmax/ArtisanStaged/raw/main/Compiled/Artisan.zip",
+    "AssemblyVersion": "4.0.1.5",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "10",
+    "Changelog": "Made it work on staged.",
+    "TestingAssemblyVersion": "",
+    "DownloadLinkTesting": "",
+    "TestingDalamudApiLevel": "",
+    "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+  },
+]
