@@ -3,7 +3,7 @@
     "Author": "Taurenkey, kawaii",
     "Name": "ArtisanStaged",
     "Punchline": "A 'simple' crafting plugin.",
-    "Description": "Staged",
+    "Description": "Disable Original Artisan before installing or enabling this Staged release. - Disable this version before enabling original Artisan.",
     "Tags": [
       "crafting"
     ],
